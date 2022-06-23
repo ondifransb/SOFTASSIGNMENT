@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SOFTASSIGNMENT/static/css/main.d76925f2.css",
+    "main.js": "/SOFTASSIGNMENT/static/js/main.011b12d6.js",
+    "static/js/787.69d52f14.chunk.js": "/SOFTASSIGNMENT/static/js/787.69d52f14.chunk.js",
+    "index.html": "/SOFTASSIGNMENT/index.html",
+    "main.d76925f2.css.map": "/SOFTASSIGNMENT/static/css/main.d76925f2.css.map",
+    "main.011b12d6.js.map": "/SOFTASSIGNMENT/static/js/main.011b12d6.js.map",
+    "787.69d52f14.chunk.js.map": "/SOFTASSIGNMENT/static/js/787.69d52f14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76925f2.css",
+    "static/js/main.011b12d6.js"
+  ]
+}
